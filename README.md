@@ -1,2 +1,2 @@
 # hiveKickCodes
-hive's kick codes &lt;up to date>
+hive kick codes explained
